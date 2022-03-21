@@ -1,0 +1,119 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color:  #e8e4e2;
+    
+}
+
+.menu
+{
+    position:fixed and top:0;
+
+}
+.containerOne
+{
+    width: 100%; 
+}
+
+.menu ul
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+    height: 100px;
+    list-style-type: none;
+    
+}
+li a
+{
+    text-decoration: none;
+    color: black;
+    font-family: "Signifier-Regular "Italic;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+#logo
+{
+    align-items: center;
+
+}
+
+.containerTwo
+{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.containerThree
+{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+
+.containerGif
+{
+    height: 400px;
+}
+
+.designerExpression
+{
+    font-family: "Signifier-Regular", sans-serif;
+    text-align: center;
+}
+
+#designerText
+{
+    width: 541.23;
+    height: 58;
+    font-size: 20px;
+}
+
+
+#gif
+{
+    display: block;
+    margin: 0 auto;
+    height: 300px;
+    width: 300px;      
+}
+
+.containerSix
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ #sixthImage
+{
+    width: 700px;
+    height: 500px;
+} 
+
+#seeMore
+{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    justify-content: center;
+    font-family: "Signifier-Regular "Italic;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+.footerMenu ul
+{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
